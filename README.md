@@ -22,3 +22,4 @@ Some specs and aspects of this pocket tuner:
 output stage to excessive SWR conditions while tuning as this is the case in Automatic Antenna Tuners.
 
 
+Acknowledgement: I would like to thank David Cripe, N0MOS for letting me use his Resistive tuning led indicator design in this tuner project. 
