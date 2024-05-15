@@ -8,7 +8,7 @@ A Credit Card sized HF T-MATCH ANTENNA TUNER for QRPp and QRP Portable Operation
 Lately I am fascinated with miniscule RF power HF rigs and their performance on Digital Modes such as FT-8 and FT4. 
 Almost a year now I work QRPp on HF Digital Modes with a highly portable QRPp HF Transceiver with Sub 500 mW RF output from Parks, backpack hikes and from my car. I work mostly on 10m to 17m with my rig. All my QRPp QSOs can be checked on my QRZ log performed with my tiny rig.
 All working great except with one minor issue, lacking a highly portable antenna Tuner to accompany my setup in my backpack. ATU type tuners such as ATU-10 or so fail to tune below 500 mW! 
-My go to Tuner is a 4State QRP tuner which I grabbed from a hamfest as a second hand. This tuner designed by David Cripe, N0MOS and works like a charm! The only issue I have is it’s size! 
+My go to Tuner is a 4State QRP tuner which I grabbed from a hamfest as a second hand. This tuner designed by David Cripe, NM0S and works like a charm! The only issue I have is it’s size! 
 I wanted something the size of a credit card as a Tuner! So I took this challenge upon me and designed a T-Match tuner similar to David Cripe’s excellent 4State QRP Tuner with a twist and way smaller than that.
 
 Some specs and aspects of this pocket tuner:
@@ -22,4 +22,4 @@ Some specs and aspects of this pocket tuner:
 output stage to excessive SWR conditions while tuning as this is the case in Automatic Antenna Tuners.
 
 
-Acknowledgement: I would like to thank David Cripe, N0MOS for letting me use his Resistive tuning led indicator design in this tuner project. 
+Acknowledgement: I would like to thank David Cripe, NM0S for letting me use his Resistive tuning led indicator design in this tuner project. 
