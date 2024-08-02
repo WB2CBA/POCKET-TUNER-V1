@@ -13,6 +13,7 @@ Also lowering 51 ohm / 2W resistors to 47 ohm 2 W resistors gave a better correl
 Anyone who is just ordering the pcb will be covered by these changes if they download the gerber file from github page. They don’t need to make those changes listed below,
 
 For users that are already built this pocket tuner here are changes listed to upgrade to this new scheme:
+---------------------------------------------------------------------------------------------------------
 -	Replace  R1 -R2-R4 51 ohm/2Watt resistors with 47 ohm 2 Watt resistors.
 -	Swap C4 and C5 capacitors.
 -	Swap C8 and C9 capacitors.
