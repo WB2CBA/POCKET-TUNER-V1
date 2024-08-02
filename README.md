@@ -20,6 +20,7 @@ For users that are already built this pocket tuner here are changes listed to up
 -	Swap C8 and C9 capacitors.
 -	Swap C10 and C11 capacitors.
 -	Swap C14 and C15 capacitors.
+
 The value of those capacitors are same. We are just changing the location of those capacitors by swapping them with eachother.
 
 Now you will have a easier tuning experience with POCKET TUNER.
