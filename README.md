@@ -2,6 +2,20 @@
 
 ![POCKET TUNER V1 Compraison](https://github.com/WB2CBA/POCKET-TUNER-V1/assets/59450739/de6cd134-43d4-48f4-8289-9c5c8aabd542)
 
+POCKET TUNER V1.1 UPDATE – 08/2024
+I updated POCKET TUNER SCHEMATIC and PCB LAYOUT. The new layout gerber file in POCKET TUNER github page: https://github.com/WB2CBA/POCKET-TUNER-V1
+ The reason for this update was a difference in using the rotary encoders. Although I posted a linear increment Excell sheet for capacitor selection my method was a random selection. I chose this to get to the capacitor value faster than going through all capacitance values. It is like hit and miss. This created a confusion with fellow hams who built this tuner. I came to the conclusion that linear increment is a more intuitive method to get used with.
+Also lowering 51 ohm / 2W resistors to 47 ohm 2 W resistors gave a better correlation between tune and actual SWR values.
+Anyone who is just ordering the pcb will be covered by these changes if they download the gerber file from github page. They don’t need to make those changes listed below,
+For users that are already built this pocket tuner here are changes listed to upgrade to this new scheme:
+-	Replace  R1 -R2-R4 51 ohm/2Watt resistors with 47 ohm 2 Watt resistors.
+-	Swap C4 and C5 capacitors.
+-	Swap C8 and C9 capacitors.
+-	Swap C10 and C11 capacitors.
+-	Swap C14 and C15 capacitors.
+The value of those capacitors are same. We are just changing the location of those capacitors by swapping them with eachother.
+Now you will have a easier tuning experience with POCKET TUNER.
+
 
 A Credit Card sized HF T-MATCH ANTENNA TUNER for QRPp and QRP Portable Operations
 
