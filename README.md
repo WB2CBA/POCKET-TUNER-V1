@@ -3,6 +3,7 @@
 ![POCKET TUNER V1 Compraison](https://github.com/WB2CBA/POCKET-TUNER-V1/assets/59450739/de6cd134-43d4-48f4-8289-9c5c8aabd542)
 
 POCKET TUNER V1.1 UPDATE – 08/2024
+
 I updated POCKET TUNER SCHEMATIC and PCB LAYOUT. The new layout gerber file in POCKET TUNER github page: https://github.com/WB2CBA/POCKET-TUNER-V1
 
  The reason for this update was a difference in using the rotary encoders. Although I posted a linear increment Excell sheet for capacitor selection my method was a random selection. I chose this to get to the capacitor value faster than going through all capacitance values. It is like hit and miss. This created a confusion with fellow hams who built this tuner. I came to the conclusion that linear increment is a more intuitive method to get used with.
