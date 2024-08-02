@@ -3,6 +3,7 @@
 ![POCKET TUNER V1 Compraison](https://github.com/WB2CBA/POCKET-TUNER-V1/assets/59450739/de6cd134-43d4-48f4-8289-9c5c8aabd542)
 
 POCKET TUNER V1.1 UPDATE – 08/2024
+----------------------------------
 
 I updated POCKET TUNER SCHEMATIC and PCB LAYOUT. The new layout gerber file in POCKET TUNER github page: https://github.com/WB2CBA/POCKET-TUNER-V1
 
