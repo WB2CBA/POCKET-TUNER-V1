@@ -22,6 +22,8 @@ The value of those capacitors are same. We are just changing the location of tho
 Now you will have a easier tuning experience with POCKET TUNER.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A Credit Card sized HF T-MATCH ANTENNA TUNER for QRPp and QRP Portable Operations
 
 Lately I am fascinated with miniscule RF power HF rigs and their performance on Digital Modes such as FT-8 and FT4. 
